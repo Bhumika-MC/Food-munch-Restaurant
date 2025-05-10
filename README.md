@@ -16,3 +16,9 @@ It provides a clean and smooth browsing experience across all devices.
 
 ## Live Demo
 Website Link: https://bhumikawebres.ccbp.tech/
+
+## Screenshots
+### Home Page
+
+![Home Page](https://res.cloudinary.com/dzftwxkiu/image/upload/v1746858860/Screenshot_2025-05-10_120226_lx38r2.png)
+
